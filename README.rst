@@ -21,3 +21,14 @@ Usage
 Basic Usage ::
 
     mpresponse
+
+Installation
+--------
+
+pip ::
+
+    pip install MPPyResponse
+
+setup.py ::
+
+    python setup.py install
