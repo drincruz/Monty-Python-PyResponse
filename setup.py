@@ -12,16 +12,14 @@ readme = open('README.rst').read()
 history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 requirements = [
-    # TODO: put package requirements here
 ]
 
 test_requirements = [
-    # TODO: put package test requirements here
 ]
 
 setup(
     name='MPPyResponse',
-    version='0.1.0',
+    version='0.1.1',
     description='A silly Monty Python quote generator',
     long_description=readme + '\n\n' + history,
     author='Adrian Cruz',
@@ -30,6 +28,7 @@ setup(
     packages=[
         'MPPyResponse',
     ],
+    package_data={'MPPyResponse': ['monty_python.txt']},
     package_dir={'MPPyResponse':
                  'MPPyResponse'},
     include_package_data=True,

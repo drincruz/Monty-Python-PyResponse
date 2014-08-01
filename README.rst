@@ -2,8 +2,8 @@
 Monty Python PyResponse
 ===============================
 
-.. image:: https://pypip.in/d/Monty-Python-PyResponse/badge.png
-        :target: https://pypi.python.org/pypi/Monty-Python-PyResponse
+.. image:: https://pypip.in/d/MPPyResponse/badge.png
+        :target: https://pypi.python.org/pypi/MPPyResponse
 
 
 A silly Monty Python quote generator
@@ -13,4 +13,11 @@ A silly Monty Python quote generator
 Features
 --------
 
-* TODO
+* Random Monty Python quotes
+
+Usage
+--------
+
+Basic Usage ::
+
+    mpresponse
