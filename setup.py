@@ -19,7 +19,7 @@ test_requirements = [
 
 setup(
     name='MPPyResponse',
-    version='0.1.2',
+    version='0.1.3',
     description='A silly Monty Python quote generator',
     long_description=readme + '\n\n' + history,
     author='Adrian Cruz',

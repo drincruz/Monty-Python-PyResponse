@@ -17,3 +17,8 @@ History
 ---------------------
 
 * Added monty_python.txt to MANIFEST.in for pip installations.
+
+0.1.3 (2014-08-01)
+---------------------
+
+* Added include for MPPyResponse/monty_python.txt to MANIFEST.in.
