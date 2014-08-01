@@ -12,3 +12,8 @@ History
 ---------------------
 
 * Added monty_python.txt to package
+
+0.1.2 (2014-08-01)
+---------------------
+
+* Added monty_python.txt to MANIFEST.in for pip installations.
